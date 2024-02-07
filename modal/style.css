@@ -1,0 +1,21 @@
+.main-div {
+    text-align: center;
+}
+.modal {
+    text-align: center;
+    border: 1px solid red;
+    height: 500px;
+    width: 500px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.cross {
+    float: right;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.display-none {
+    display: none;
+}

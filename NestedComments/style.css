@@ -1,0 +1,31 @@
+.header {
+    text-align: center;
+    padding: 10px;
+}
+.comment {
+    font-size: 14px;
+    color: black;
+    margin-bottom: 10px;
+}
+.card {
+    background-color: bisque;
+    padding: 10px;
+    border-radius: 16px;
+    margin-top: 10px;
+}
+.add-comment {
+    cursor: pointer;
+}
+.input-section {
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.submit {
+    cursor: pointer;
+}
+.display-none {
+    display: none;
+}
+.same-section > :not(:first-child) {
+    margin-left: 100px;
+}

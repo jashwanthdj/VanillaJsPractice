@@ -1,0 +1,10 @@
+.main {
+    text-align: center;
+}
+.star {
+    font-size: 100px;
+}
+.clicked, .star:hover {
+    color: yellow;
+    cursor: pointer;
+}

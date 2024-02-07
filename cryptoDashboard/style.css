@@ -1,0 +1,30 @@
+.heading {
+    text-align: center;
+}
+.body-main {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+.inner-div {
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 16px;
+}
+.image {
+    height: 100px;
+    width: 100px;
+}
+.details {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+
+}
+.row {
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+}
